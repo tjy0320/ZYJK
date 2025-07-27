@@ -1,6 +1,6 @@
 
 {
-"spider":"https://github.com/tjy0320/ZYJK/raw/refs/heads/main/1.jar",
+"spider":"https://gh.llkk.cc/https://github.com/tjy0320/ZYJK/raw/refs/heads/main/1.jar",
 "wallpaper":"http://bobohome.ignorelist.com:20247/bing","logo":"http://127.0.0.1:9978/file/TVBox/logo.png",
 "sites":[
     {"key":"豆瓣","name":"☁️┃豆瓣┃首页","type":3,"api":"csp_Douban","searchable":0},
