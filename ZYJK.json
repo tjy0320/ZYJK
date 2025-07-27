@@ -215,7 +215,7 @@
 ],
 "lives":[
 {
-"name": "SAO0","type": 0,"url": "https://github.com/tjy0320/ZYJK/blob/main/1.m3u8","ua": "okhttp/3.15"}
+"name": "直播源","type": 0,"url": "https://raw.githubusercontent.com/tjy0320/ZYJK/refs/heads/main/1.json","ua": "okhttp/3.15"}
 ],
 "hosts":["cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com","cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com","cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com","cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com","cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com","cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"],
 "flags":["youku","优酷","优酷","优酷视频","qq","腾讯","腾讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱奇艺","m1905","xigua","letv","leshi","乐视","乐视","sohu","搜狐","搜狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒果TV","bilibili","哔哩","哔哩哔哩"],"ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},
